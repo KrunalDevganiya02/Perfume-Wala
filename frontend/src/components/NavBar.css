@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: black;
+  color: white;
+  height: 6vh;
+}
+.container img {
+  margin: 0px 0px 0px 20px;
+  width: 35px;
+}
+.wala {
+  font-size: larger;
+}
+/* .l{border-radius: 90%;} */
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 40%;
+  list-style: none;
+  font-size: large;
+  text-decoration: none;
+  color: white;
+}
+
+.nav li Link , li ,ul , Link , span{  
+  list-style: none;
+  color: white;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  align-items: center;
+}
+
+.btns .btn span{color: black;}
+
+.btn {
+  font-size: larger;
+  border-radius: 5px;
+  margin: 0px 5px;
+  padding: 3px 10px;
+  
+}

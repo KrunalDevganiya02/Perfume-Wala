@@ -1,0 +1,19 @@
+.about{
+    /* margin: 5vw; */
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 200vh;
+
+
+}
+p{
+    font-size: larger;
+    margin: 5vw;
+}
+
+.aimg{
+    width: 25vw;
+    border-radius: 50%;
+    margin: 5vh 35vw;
+}

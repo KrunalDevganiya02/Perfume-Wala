@@ -1,0 +1,16 @@
+.contact{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    display: flex;
+    padding:  20vh 10vw;
+}
+.cimg{
+        width: 40vw;
+        height: 45vh;   
+        border-radius: 50%;
+}
+.pcontact{
+    font-size: 3rem;
+}
